@@ -1,4 +1,5 @@
 # DataFest 2019
+Team Members: Raghava Govil, Nikhil Sharma, Konner Macias, Steven Lei, Franklin Leung
 
 ## Problem Statement
 We participated in the 2019 ASA DataFest at UCLA, where teams were challenged to analyze data from the Canada women's national rugby union team towards the goal of redefining athlete fatigue. 
