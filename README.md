@@ -9,3 +9,5 @@ We decided to redefine fatigue using k-means clustering based on subjective play
 
 ## Results
 Out of 75+ teams competing from universities across Southern California, we were chosen by the judges to advance to the Finalist's round.
+
+Website: http://datafest.stat.ucla.edu/competition/2019-asa-datafesttm-results/
